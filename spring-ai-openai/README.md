@@ -7,7 +7,7 @@ Invoke the following endpoint.
 The response to the request is from the OpenAI ChatGPT Service.
 
 
-## Prerequisites
+### Prerequisites
 
 You need a API key from OpenAI and set this key for `spring.ai.openai.api-key`
 

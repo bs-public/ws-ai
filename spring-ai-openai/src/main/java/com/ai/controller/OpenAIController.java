@@ -1,4 +1,4 @@
-package com.ai;
+package com.ai.controller;
 
 import java.util.Map;
 import org.springframework.ai.chat.ChatClient;
