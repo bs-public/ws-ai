@@ -69,3 +69,30 @@ curl http://localhost:11434/api/chat -d '{
 WebUI for LLMs (Formerly Ollama WebUI)
 
 - [Open WebUI](https://github.com/open-webui/open-webui)
+
+
+
+### Llama2 Model
+
+<img src="images/llama2_1.png" alt="llama2 Model" style="max-width: 50%; height: auto;">
+
+
+### Llama2 using Ollama
+
+<img src="images/llama2_2.png" alt="llama2 Model" style="max-width: 50%; height: auto;">
+
+
+### Ollama Running
+
+<img src="images/llama2_3.png" alt="Ollama Running" style="max-width: 50%; height: auto;">
+
+
+### Generate a response
+
+<img src="images/llama2_4.png" alt="Generate a response" style="max-width: 50%; height: auto;">
+
+
+### Chat with a model
+
+<img src="images/llama2_5.png" alt="Chat with a model" style="max-width: 50%; height: auto;">
+
